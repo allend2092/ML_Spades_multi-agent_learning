@@ -1,5 +1,3 @@
-Absolutely — here's a ready-to-copy `README.md` that explains the project purpose, dependencies, and how the system works. Just paste it into your repo:
-
 ````markdown
 # Spades RL – Multi-Agent Reinforcement Learning for Spades (Educational Project)
 
